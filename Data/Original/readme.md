@@ -1,5 +1,5 @@
 # Data Sources
-List of Sources for the original Datasets
+List of Sources for the Original Datasets
 
 1) Median household income by state: US Census Bureau. 1984-2022
 2) Median House price by state: Zillow. 2008-2023
