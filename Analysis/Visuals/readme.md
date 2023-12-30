@@ -1,23 +1,23 @@
 # All Project Visualizations
 Below is a reference for each visualization in this project
 
-1) 2008_both_scatter =
-2) 2008_scatter =
-3) 2009_scatter =
-4) 2010_scatter =
-5) 2011_scatter =
-6) 2012_scatter =
-7) 2013_scatter =
-8) 2014_scatter =
-9) 2015_scatter =
-10) 2016_scatter =
-11) 2017_scatter =
-12) 2018_scatter =
-13) 2019_scatter =
-14) 2020_scatter =
-15) 2021_scatter =
-16) 2022_both_scatter = 
-17) 2022_scatter =
+1) 2008_both_scatter = Housing Cost Categories vs Income Categories in 2008 
+2) 2008_scatter = Housing Cost Categories vs Income in 2008
+3) 2009_scatter = Housing Cost Categories vs Income in 2009
+4) 2010_scatter = Housing Cost Categories vs Income in 2010
+5) 2011_scatter = Housing Cost Categories vs Income in 2011
+6) 2012_scatter = Housing Cost Categories vs Income in 2012
+7) 2013_scatter = Housing Cost Categories vs Income in 2013
+8) 2014_scatter = Housing Cost Categories vs Income in 2014
+9) 2015_scatter = Housing Cost Categories vs Income in 2015
+10) 2016_scatter = Housing Cost Categories vs Income in 2016
+11) 2017_scatter = Housing Cost Categories vs Income in 2017
+12) 2018_scatter = Housing Cost Categories vs Income in 2018
+13) 2019_scatter = Housing Cost Categories vs Income in 2019
+14) 2020_scatter = Housing Cost Categories vs Income in 2020
+15) 2021_scatter = Housing Cost Categories vs Income in 2021
+16) 2022_both_scatter = Housing Cost Categories vs Income Categories in 2022 
+17) 2022_scatter = Housing Cost Categories vs Income in 2022
 18) AZ_house_ts_DFtest =
 19) AZ_house_ts_analysis =
 20) AZ_house_ts_prep =
