@@ -22,9 +22,9 @@ Purchasing a home in the United States is become more difficult as wages fail to
 # Data Sets
 All Raw Datasets uploaded to Data/Original. Datasets include:
 Original:
-[Median_House_Price_By_State]
-[Median_Income_By_State]
-[Minimum_Wage_Data]
+1) [Median_House_Price_By_State] = Zillow (https://www.zillow.com/research/data/), Median House price by state from 2008-2023 
+2) [Median_Income_By_State] = US Census Bureau (https://www.census.gov/data/tables/time-series/demo/income-poverty/historical-incomehouseholds.html), Median household income by state from 1984-2022
+3) [Minimum_Wage_Data] = United States Department of Labor (http://www.kaggle.com/datasets/lislejoem/us-minimum-wage-by-state-from-1968-to-2017), State and Federal Minimum Wage from 1968-2020
 Prepped:
 [Clustering_Integer_Dataset]
 [Geospatial_Complete_Data]
