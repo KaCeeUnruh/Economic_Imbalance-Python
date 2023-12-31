@@ -20,5 +20,19 @@ Purchasing a home in the United States is become more difficult as wages fail to
 
 
 # Data Sets
+All Raw Datasets uploaded to Data/Original. Datasets include:
+Original:
+(Median_House_Price_By_State)
+(Median_Income_By_State)
+(Minimum_Wage_Data)
+Prepped:
+(Clustering_Integer_Dataset)
+(Geospatial_Complete_Data)
+(House_Cleaned)
+(Income_Cleaned)
+(Merged_3_Data)
+(Wage_Cleaned)
 
-https://public.tableau.com/views/EconomicImbalance-HousingAffordabilityintheUS/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+# Project Links
+Tableau: (https://public.tableau.com/views/EconomicImbalance-HousingAffordabilityintheUS/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
