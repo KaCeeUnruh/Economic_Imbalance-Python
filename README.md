@@ -34,17 +34,12 @@ All Raw Datasets uploaded to Data/Original. Datasets include:
 [Wage_Cleaned]
 
 
-# Data Cleaning
-					
-	Dataset	Missing values	Missing values treatment	Duplicates	
-	Median_Income_By_State	none	NA	none	
-	Median_House_Price_By_State	Several states had missing values for certain areas/cities.	Calculated average of other areas within the state during the same year for a calculated estimate.	none (Except the values that were previously missing and calculated as the average).	
-	Minimum_Wage_Data	Several States had missing values for state minimum wage.	Any state with missing values had the federal minimum wage entered.	Several, but to be expected since many states have the same minimum wage.	
-	us_states.json	none	NA	none	
-					
-					
-					
+# Data Cleaning										
 ![image](https://github.com/KaCeeUnruh/Economic_Imbalance-Python/assets/130774051/65ab20e3-c0b0-4a12-937a-b0ac408f5024)
+							
+![image](https://github.com/KaCeeUnruh/Economic_Imbalance-Python/assets/130774051/e7fb9f34-bfcc-4ba0-8719-6e4d763d831b)
+					
+![image](https://github.com/KaCeeUnruh/Economic_Imbalance-Python/assets/130774051/357870d9-8841-4d0d-b0e7-fff92ba1d8f9)
 
 
 
